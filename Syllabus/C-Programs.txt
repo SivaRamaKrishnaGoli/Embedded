@@ -1,1 +1,890 @@
+C Strings
+1.	C Program to count length of string without using any library function
+2.	C Program to Count length of string using library function
+3.	C Program to compare two strings without using functions
+4.	C Program to reverse any string
+5.	C program to Reverse a String Using Recursion
+6.	C Program to copy first string into second string
+7.	C Program to concatenate two string
+8.	C Program to copy first string into second string
+9.	C Program to count number of vowels in string
+10.	C program to delete vowels from a string
+11.	C Program to reverse each words in string without reversing the characters
+12.	C Program to check whether string is palindrome or not
+13.	C Program to Compare two strings using functions
+14.	C Program to Converting string from lowercase to uppercase and vice-versa
+15.	C Program to Counting the number of words in a given string
+16.	C Program to Counting the number of character in a given string
+17.	C Program to Remove all Characters in a String Except Alphabet
+18.	C Program to arrange the string in alphabetical order
+19.	C program to count uppercase, lowercase and special characters in string
+20.	C program to toggle each character in a string
+21.	C program to find number of alphabets, digits or special characters in a string
+22.	C program to count total number of vowels and consonants in a string
+23.	C program to find the first occurrence of a character in a string
+24.	C program to find last occurrence of a character in a string
+25.	C program to search all occurrences of a character in a string
+26.	C program to find maximum occurring character in a string
+27.	C program to find minimum occurring character in a string
+28.	C program to remove first occurrence of a character from string
+29.	C program to remove spaces and blanks from a string
+30.	C Program to display reverse and length of string
+31.	C Program to convert Number to String using Recursion
+32.	C Program to convert string of numbers to an integer
+33.	C Program to find all permutations of string
+34.	C Program to Sort a String
+35.	C Program to Insert a String into Another String
+36.	C Program to Split a String into a Number of Sub-Strings
+37.	C Program to find frequency of vowels in String
+38.	C program to replace first occurrence of a character in a string
+
+C Arrays
+1.	C Program to find largest and smallest number and their positions
+2.	C program to input and print n elements in an array
+3.	C program to find sum of all elements of an array
+4.	C program to find sum of all elements of an array
+5.	C program to find second largest number in an array
+6.	C program to copy all elements of one array to another
+7.	C program to insert an element in array
+8.	C program to delete an element from an array
+9.	C program to print all unique element in an array
+10.	C program to print all negative elements in an array
+11.	C program to count even and odd elements in an array
+12.	C Program to sort an array in ascending order using bubble sort
+13.	C Program to sort an array in descending order using bubble sort
+14.	C program to count total number of negative elements in array
+15.	C program count total number of duplicate elements in an array
+16.	C program to delete all duplicate elements from an array
+17.	C program to count frequency of each element in an array
+18.	C program to merge two sorted array in ascending order
+19.	C Program to merge two sorted array in descending order
+20.	C program to find reverse of an array
+21.	C program to put even and odd elements of array in two separate array
+22.	C program to search an element in the array
+23.	C program to sort an array in ascending order
+24.	C program to sort an array in descending order
+25.	C program to sort even and odd elements of array separately
+26.	C Program to search an element in an array using Binary search
+27.	C Program to search an element in an array using linear search
+28.	C program to replace all Even elements by 0 and Odd by 1
+29.	C Program to Find Union & Intersection of 2 Arrays
+30.	C Program to implement Stack Operations Using Arrays
+31.	C Program to Implement a Queue using an Array
+32.	C Program to Calculate Addition of All Elements in Array
+33.	C Program to Merge Sort of two different arrays
+34.	C Program to find Mean, Variance and Standard deviation of n numbers
+35.	C program to find GCD (Greatest Common Divisor) (HCF) of N numbers using Arrays
+36.	C Program to input values into an array and display them
+37.	C Program to pass array elements to a function
+38.	C Program to pass array to function to calculate sum
+39.	C Program to print value and address of elements of an array without pointer
+40.	C Program to print value and address of elements of an array using pointer
+41.	C Program to enter Student Details using array of structures
+42.	C Program to understand arrays within structures
+43.	C Program to understand how array of structures sent to function
+
+C Pointers
+1.	C Program to Access Elements of Array Using Pointer
+2.	C Program Swap Numbers Using Call by Reference
+3.	C Program to Find Largest Number Using Dynamic Memory Allocation
+4.	C Program to Read Infinite Numbers in Ascending Order
+5.	C program to swap two numbers using pointers
+6.	C Program to Reverse order of word in string using pointers
+7.	C Program to Reverse string using pointers
+8.	C Program To find maximum number using pointers
+9.	C program to find average of numbers using pointers
+10.	C program to sort numbers using pointers
+11.	C Program to check Palindrome Program using Pointer
+12.	C Program to Get Address of array using Pointers
+13.	C program to count consonants and vowels in string using pointer
+14.	C program to read and print student details using pointer
+15.	C program to print string using pointers
+16.	C program to print size of different data types using pointers
+17.	C program to perform double pointer
+18.	C program to perform array of pointers
+19.	C Program to implement Stack Operations Using Pointer
+20.	C Program to Find Length of String using Pointer
+21.	C Program to reverse array using Pointers
+22.	C Program to display array with addresses using pointers
+23.	C Program to Add Two Numbers Using Pointer
+24.	C Program to dereference pointer variables
+25.	C Program to show an example of pointer to pointer
+26.	C Program to print value and address of elements of an array using pointer
+27.	C Program to perform Call By Value and Call By Reference methods
+28.	C Program to return more than one value from a function
+29.	C Program for dynamic memory allocation using malloc( )
+30.	C Program to understand the use of realloc() function
+31.	C Program to understand pointers to structures
+32.	C Program to understand how pointer to structure variable is sent to function
+33.	C Program to understand how pointer to structure returned from function
+
+Bitwise Operators
+
+1.	C Programs on Bitwise Operators
+2.	C Programs on Integer Bits
+3.	C Programs on Swapping and Replacing Integers
+4.	C Programs on Mathematical Applications using Bitwise Operations
+5.	C Programs on String Positions
+6.	C Programs on Strings using Bitwise Operations
+
+C stack
+
+1. Write a C program to implement a stack using an array with push and pop operations.  
+Expected Output:
+Elements in the stack are: 3 5 4 3 2 1 
+ 
+2. Write a C program to implement a stack using a singly linked list.  
+Expected Output:
+ Push data 1
+ Push data 2
+ Push data 3
+ Push data 4
+
+ Pop data: 4
+ Pop data: 3
+ Pop data: 2
+ Pop data: 1
+
+ Check a stack is empty or not?
+ Stack is empty!
+ 
+3. Write a C program to check a stack is full or not using an array with push and pop operations.  
+Expected Output:
+Stack size: 3
+Original Stack: 1 2 3 
+Push another value and check if the stack is full or not!
+Stack is full!
+
+Stack size: 3
+Original Stack: 10 20 
+Check the said stack is full or not!
+Stack is not full!
+ 
+4. Write a C program that accepts a string and reverse it using a stack.  
+Expected Output:
+Input a string: w3resource
+ Reversed string using a stack is: ecruoser3w
+ 
+5. Write a C program to implement two stacks in a single array and performs push and pop operations for both stacks.  
+Expected Output:
+ Elements in Stack-1 are: 50 40 30 10 
+Elements in Stack-2 are: 70 60 50 40 20 
+ 
+6. Write a C program to sort a given stack using another stack.  
+Expected Output:
+Original stack: 1 5 5 2 3 8 
+Sorted stack: 1 2 3 5 5 8 
+
+Queue
+
+1. Write a C program to implement a queue using an array. Programs should contain functions for inserting elements into the queue, displaying queue elements, and checking whether the queue is empty or not.  
+Expected Output:
+Initialize a queue!
+Check the queue is empty or not? Yes
+
+Insert some elements into the queue:
+Queue elements are: 1 2 3 
+
+Insert another element into the queue:
+Queue elements are: 1 2 3 4 
+
+Check the queue is empty or not? No  
+ 
+2. Write a C program to implement a queue using an array. Create a function that removes an element from the queue.  
+Expected Output:
+Initialize a queue!
+Insert some elements into the queue:
+Queue elements are: 1 2 3 
+
+Delete an element from the said queue:
+Queue elements are: 2 3 
+
+Insert another element into the queue:
+Queue elements are: 2 3 4
+ 
+3. Write a C program to implement a queue using a linked list. Programs should contain functions for inserting elements into the queue, displaying queue elements, and checking whether the queue is empty or not.  
+Expected Output:
+Initialize a queue!
+Check the queue is empty or not? Yes
+
+Insert some elements into the queue:
+1 2 3 
+
+Insert another element into the queue:
+1 2 3 4 
+
+Check the queue is empty or not? No
+ 
+4. Write a C program to implement a queue using an array. Create a function that removes an element from the queue.  
+Expected Output:
+Initialize a queue!
+Check the queue is empty or not? Yes
+
+Insert some elements into the queue:
+1 2 3 
+
+Insert another element into the queue:
+1 2 3 4 
+
+Check the queue is empty or not? No
+
+Linked List
+
+1. Write a program in C to create and display a Singly Linked List.  
+Test Data :
+Input the number of nodes : 3
+Input data for node 1 : 5
+Input data for node 2 : 6
+Input data for node 3 : 7
+Expected Output :
+ Data entered in the list :                                                                                   
+ Data = 5                                                                                                     
+ Data = 6                                                                                                     
+ Data = 7  
+2. Write a program in C to create a singly linked list of n nodes and display it in reverse order.  
+Test Data :
+Input the number of nodes : 3
+Input data for node 1 : 5
+Input data for node 2 : 6
+Input data for node 3 : 7
+Expected Output :
+ Data entered in the list are :                                                                               
+ Data = 5                                                                                                     
+ Data = 6                                                                                                     
+ Data = 7                                                                                                     
+                                                                                                              
+ The list in reverse are :                                                                                    
+ Data = 7                                                                                                     
+ Data = 6                                                                                                     
+ Data = 5 
+ 
+3. Write a program in C to create a singly linked list of n nodes and count the number of nodes.  
+Test Data :
+Input the number of nodes : 3
+Input data for node 1 : 5
+Input data for node 2 : 6
+Input data for node 3 : 7
+Expected Output :
+ Data entered in the list are :                                                                               
+ Data = 5                                                                                                     
+ Data = 6                                                                                                     
+ Data = 7
+      
+ Total number of nodes = 3  
+ 
+4. Write a program in C to insert a new node at the beginning of a Singly Linked List.  
+Test Data and Expected Output :
+ Input the number of nodes : 3                                                                                
+ Input data for node 1 : 5                                                                                    
+ Input data for node 2 : 6                                                                                    
+ Input data for node 3 : 7                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ Data = 5                                                                                                     
+ Data = 6                                                                                                     
+ Data = 7                                                                                                     
+                                                                                                              
+ Input data to insert at the beginning of the list : 4                                                        
+                                                                                                              
+ Data after inserted in the list are :                                                                        
+ Data = 4                                                                                                     
+ Data = 5                                                                                                     
+ Data = 6                                                                                                     
+ Data = 7  
+ 
+5. Write a program in C to insert a new node at the end of a Singly Linked List.  
+Test Data and Expected Output :
+Input the number of nodes : 3                                                                                
+ Input data for node 1 : 5                                                                                    
+ Input data for node 2 : 6                                                                                    
+ Input data for node 3 : 7                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ Data = 5                                                                                                     
+ Data = 6                                                                                                     
+ Data = 7                                                                                                     
+                                                                                                              
+ Input data to insert at the end of the list : 8                                                              
+                                                                                                              
+ Data, after inserted in the list are :                                                                       
+ Data = 5                                                                                                     
+ Data = 6                                                                                                     
+ Data = 7                                                                                                     
+ Data = 8   
+ 
+6. Write a program in C to insert a node in the middle of a Singly Linked List.  
+Test Data and Expected Output :
+Input the number of nodes (3 or more) : 4                                                                    
+ Input data for node 1 : 1                                                                                    
+ Input data for node 2 : 2                                                                                    
+ Input data for node 3 : 3                                                                                    
+ Input data for node 4 : 4                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ Data = 1                                                                                                     
+ Data = 2                                                                                                     
+ Data = 3                                                                                                     
+ Data = 4                                                                                                     
+                                                                                                              
+ Input data to insert in the middle of the list : 5                                                           
+ Input the position to insert new node : 3                                                                    
+                                                                                                              
+ Insertion completed successfully.                                                                             
+                                                                                                              
+ The new list are :                                                                                           
+ Data = 1                                                                                                     
+ Data = 2                                                                                                     
+ Data = 5                                                                                                     
+ Data = 3                                                                                                     
+ Data = 4  
+ 
+7. Write a program in C to delete the first node of a Singly Linked List.  
+Test Data :
+Input the number of nodes : 3
+Input data for node 1 : 2
+Input data for node 2 : 3
+Input data for node 3 : 4
+Expected Output :
+ Data entered in the list are :                                                                               
+ Data = 2                                                                                                     
+ Data = 3                                                                                                     
+ Data = 4                                                                                                     
+                                                                                                              
+ Data of node 1 which is being deleted is :  2                                                                
+                                                                                                              
+ Data, after deletion of first node :                                                                         
+ Data = 3                                                                                                     
+ Data = 4 
+ 
+8. Write a program in C to delete a node from the middle of a Singly Linked List.  
+Test Data and Expected Output :
+Input the number of nodes : 3                                                                                
+ Input data for node 1 : 2                                                                                    
+ Input data for node 2 : 5                                                                                    
+ Input data for node 3 : 8                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ Data = 2                                                                                                     
+ Data = 5                                                                                                     
+ Data = 8                                                                                                     
+                                                                                                              
+ Input the position of node to delete : 2                                                                     
+                                                                                                              
+ Deletion completed successfully.                                                                             
+                                                                                                              
+ The new list are  :                                                                                          
+ Data = 2                                                                                                     
+ Data = 8  
+ 
+9. Write a program in C to delete the last node of a Singly Linked List.  
+Test Data :
+Input the number of nodes : 3
+Input data for node 1 : 1
+Input data for node 2 : 2
+Input data for node 3 : 3
+Expected Output :
+ Data entered in the list are :                                                                               
+ Data = 1                                                                                                     
+ Data = 2                                                                                                     
+ Data = 3                                                                                                     
+                                                                                                              
+ The new list after deletion the last node are  :                                                             
+ Data = 1                                                                                                     
+ Data = 2 
+ 
+10. Write a program in C to search for an existing element in a singly linked list.  
+Test Data and Expected Output :
+Input the number of nodes : 3                                                                                
+                                                                                                              
+ Input data for node 1 : 2                                                                                    
+ Input data for node 2 : 5                                                                                    
+ Input data for node 3 : 8                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ Data = 2                                                                                                     
+ Data = 5                                                                                                     
+ Data = 8                                                                                                     
+                                                                                                              
+ Input the element to be searched : 5                                                                         
+ Element found at node 2 
+ 
+11. Write a C program that converts a singly linked list into a string and returns it.  
+Test Data and Expected Output :
+Linked List: Convert a Singly Linked list into a string
+-------------------------------------------------------------
+Input the number of nodes: 3
+ Input data for node 1 : 10
+ Input data for node 2 : 20
+ Input data for node 3 : 30
+
+Return data entered in the list as a string:
+The linked list: 10 20 30
+ 
+12. Write a C program that converts a singly linked list into an array and returns it.  
+Test Data and Expected Output :
+Linked List: Convert a Singly Linked list into a string
+-------------------------------------------------------------
+Input the number of nodes: 3
+ Input data for node 1 : 10
+ Input data for node 2 : 20
+ Input data for node 3 : 30
+
+Return data entered in the list as a string:
+The linked list: 10 20 30
+ 
+13. Write a C program to merge two sorted singly linked lists into a single sorted linked list.  
+Test Data and Expected Output :
+Two sorted singly linked lists:
+1 3 5 7 
+2 4 6 
+
+After merging the said two sorted lists:
+1 2 3 4 5 6 7 
+ 
+14. Write a C program to detect and remove a loop in a singly linked list.  
+Test Data and Expected Output :
+Original singly linked list:
+1 2 3 4 5 
+
+Create the loop:
+Following statement display the loop:
+displayList(head);
+
+After removing the said loop:
+1 2 3 4 5 
+ 
+15. Write a C program to check if a singly linked list is a palindrome or not.  
+Test Data and Expected Output :
+Original Singly List:
+1 2 3 4 5
+Linked list is not a palindrome.
+
+Original Singly List:
+1 2 2 1
+Linked list is a palindrome.
+
+Original Singly List:
+MADAM
+Linked list is a palindrome.
+ 
+16. Write a C program to remove duplicates from a single unsorted linked list.  
+Test Data and Expected Output :
+Original Singly List:
+1 2 3 3 4 
+After removing duplicate elements from the said singly list:
+1 2 3 4 
+
+Original Singly List:
+1 2 3 3 4 4 
+After removing duplicate elements from the said singly list:
+1 2 3 4 
+ 
+17. Write a C program to sort a singly linked list using merge sort.  
+Test Data and Expected Output :
+Sort the said singly linked list using merge sort:
+2 3 1 7 5 
+
+After sorting the said list:
+1 2 3 5 7 
+ 
+18. Write a C program to create a copy of a singly linked list with random pointers.  
+Test Data and Expected Output :
+Original singly list:
+1 2 3 5 7 
+
+After setting the random pointers:
+Data: 1, Random: 3
+Data: 2, Random: 5
+Data: 3, Random: 7
+Data: 5, Random: 1
+Data: 7, Random: 3
+ 
+19. Write a C program to find the intersection of two singly linked lists.  
+Test Data and Expected Output :
+Original lists:
+1 2 3 4 
+5 3 4 
+Intersection found at 3.
+
+Original lists:
+1 2 3 4 
+5 3 4 
+Intersection not found.
+ 
+20. Write a C program to get the n number of nodes from the end of a singly linked list.  
+Test Data and Expected Output :
+Original list:
+1 3 5 11 
+Last 2 nodes from the end of the said singly list:
+5 11 
+Last 3 nodes from the end of the said singly list:
+3 5 11 
+Last 4 nodes from the end of the said singly list:
+1 3 5 11 
+Last 1 node from the end of the said singly list:
+11 
+Last 5 node from the end of the said singly list:
+ 
+21. Write a C program to partition a singly linked list based on a specific value.  
+Test Data and Expected Output:
+Original list:
+3 5 7 5 9 2 1 
+Linked List after partition around 5:
+3 2 1 5 7 5 9 
+ 
+22. Write a C program that takes two linked lists of numbers. Each node contains a single digit and returns the sum of those numbers of said linked lists as a linked list.  
+Test Data and Expected Output :
+List-1
+8 7 9 2 
+List-2
+2 1 2 3 
+
+Adding said two lists:
+0 9 1 6 
+ 
+23. Write a C program that rotates a singly linked list to the right by k places.  
+Test Data and Expected Output :
+Original List: 1 3 4 7 9 
+
+Rotate the said singly linked list to the right by 1 places:
+9 1 3 4 7 
+
+Rotate the said singly linked list to the right by 2 places:
+4 7 9 1 3 
+
+Rotate the said singly linked list to the right by 4 places:
+7 9 1 3 4 
+ 
+24. Write a C program to swap Kth node from the beginning with Kth node from the end in a singly linked list.  
+Test Data and Expected Output :
+Original List: 1 3 4 7 9 
+
+Rotate the said singly linked list to the right by 1 places:
+9 1 3 4 7 
+
+Rotate the said singly linked list to the right by 2 places:
+4 7 9 1 3 
+
+Rotate the said singly linked list to the right by 4 places:
+7 9 1 3 4 
+ 
+25. Write a C program that removes elements with odd indices from a singly linked list.  
+Test Data and Expected Output :
+Original linked list:
+7 6 5 4 3 2 1
+
+Linked list after removing odd indices:
+6 4 2
+ 
+26. Write a C program that removes elements with even indices from a singly linked list.  
+Test Data and Expected Output :
+Original linked list:
+7 6 5 4 3 2 1
+
+Linked list after removing even indices:
+6 4 2
+ 
+27. Write a C program to implement a binary tree using linked list representation.  
+Test Data and Expected Output :
+Traversal of a binary tree: 
+40 20 50 10 30 
+ 
+28. Write a C program to remove the Nth node from the end of a singly linked list.  
+Test Data and Expected Output :
+Original Singly List:
+1 2 3 4 5 
+
+Remove 1st node from the end of a singly linked list:
+1 2 3 4 
+
+Remove 3rd node from the end of a singly linked list:
+1 3 4  
+ 
+29. Write a C program to merge k sorted linked lists into a single sorted linked list.  
+Test Data and Expected Output :
+List-1:
+10 20 50 
+List-2:
+30 40 60 
+List-3:
+10 70 100 
+
+After merging the said three sorted lists into one sorted list:
+10 10 20 30 40 50 60 70 100 
+ 
+30. Write a C program to create and reorder a linked list placing all even-numbered nodes ahead of all odd-numbered nodes.  
+Test Data and Expected Output :
+Original Singly List:
+1 2 3 4 5 6 
+
+Reorder the said linked list placing all even-numbered 
+nodes ahead of all odd-numbered nodes:
+1 3 5 2 4 6 
+ 
+31. Write a C program to reverse a singly linked list in pairs.  
+Test Data and Expected Output :
+Original List: 1 2 3 4 5 6 
+Reverse a singly linked list in pairs:
+2 1 4 3 6 5 
+
+Original List: 1 2 3 4 5 
+Reverse a singly linked list in pairs:
+2 1 4 3 5  
+ 
+32. Write a C program to split a singly linked list into two halves.  
+Test Data and Expected Output :
+Original List: 1 2 3 4 5 
+Split the said singly linked list into halves:
+First half: 1 2 3 
+Second half: 4 5 
+
+Original List: 1 2 3 4 5 6 
+Split the said singly linked list into halves:
+First half: 1 2 3 
+Second half: 4 5 6 
+ 
+33. Write a C program to delete alternate nodes of a singly linked list.  
+Test Data and Expected Output :
+Original List:
+1 2 3 4 5 6 7 
+
+Delete alternate nodes of the said singly linked list:
+1 3 5 7 
+ 
+34. Write a C program to to merge alternate nodes of two singly linked lists.  
+Test Data and Expected Output :
+First linked list: 9 7 5 3 1 
+Second linked list: 10 8 6 4 2 
+Merged linked list: 9 10 7 8 5 6 3 4 1 2 
+ 
+35. Write a C program to remove duplicates from a sorted singly linked list.  
+Test Data and Expected Output :
+Original sorted singly linked list:
+1 2 3 3 5 6 6 
+
+After removing duplicates from the said sorted linked list:
+1 2 3 5 6 
+ 
+36. Write a C program to reverse a singly linked list starting at the first position in blocks of size k.  
+Test Data and Expected Output :
+Given linked list: 
+1 2 3 4 5 6 7 8 
+Reverse the first 3 nodes of the said Linked list: 
+3 2 1 6 5 4 8 7 
+Reverse the first 5 nodes of the said Linked list: 
+5 6 1 2 3 7 8 4 
+ 
+37. Write a C program to remove all elements from a singly linked list that are greater than a given value x.  
+Test Data and Expected Output :
+Given linked list: 
+1 2 3 4 5 6 7 8 
+Reverse the first 3 nodes of the said Linked list: 
+3 2 1 6 5 4 8 7 
+Reverse the first 5 nodes of the said Linked list: 
+5 6 1 2 3 7 8 4 
+ 
+38. Write a C program to find a pair in a singly linked list whose sum is equal to a given value.  
+Test Data and Expected Output :
+Original singly linked list:
+1 2 3 4 5 6 7 
+
+Find a pair whose sum is equal to 4:
+(1,3) 
+
+Find a pair whose sum is equal to 11:
+(4,7) (5,6) 
+
+Find a pair whose sum is equal to 5:
+(1,4) (2,3) 
+
+Find a pair whose sum is equal to 14:
+Pair not found.
+ 
+39. Write a C program to interleave elements of two singly linked lists alternatively.  
+Test Data and Expected Output :
+Original Lists:
+List1: 1 3 5 7 
+List2: 2 4 6 8 
+
+After interleaving the two linked lists alternatively:
+List1: 1 2 3 4 5 6 7 8 
+List2: 2 3 4 5 6 7 8 
+ 
+40. Write a C program to swap every two adjacent nodes of a given singly linked list.  
+Test Data and Expected Output :
+Original List:
+1 2 3 4 5 
+
+Updated List after swapping every two adjacent nodes:
+2 1 4 3 5 
+ 
+41. Write a C program to reverse alternate k nodes of a given singly linked list.  
+Test Data and Expected Output :
+Original List: 1 2 3 4 5 6 7 8
+
+Reverse alternate k (k=2) nodes of the said singly linked list:
+2 1 3 4 6 5 7 8
+
+Reverse alternate k (k=3) nodes of the said singly linked list:
+3 1 2 4 6 5 8 7
+
+Reverse alternate k (k=4) nodes of the said singly linked list:
+4 2 1 3 6 5 8 7
+
+ 
+42. Write a program in C to create and display a doubly linked list.  
+Test Data :
+Input the number of nodes : 3
+Input data for node 1 : 2
+Input data for node 2 : 5
+Input data for node 3 : 8
+Expected Output :
+ Data entered on the list are :                                                                               
+ node 1 : 2                                                                                                   
+ node 2 : 5                                                                                                   
+ node 3 : 8 
+ 
+43. Write a program in C to create a doubly linked list and display it in reverse order.  
+Test Data :
+Input the number of nodes : 3
+Input data for node 1 : 2
+Input data for node 2 : 5
+Input data for node 3 : 8
+Expected Output :
+ Data in reverse order are :                                                                                  
+ Data in node 1 : 8                                                                                           
+ Data in node 2 : 5                                                                                           
+ Data in node 3 : 2 
+ 
+44. Write a program in C to insert a node at the beginning of a doubly linked list.  
+Test Data and Expected Output :
+ Input the number of nodes : 3                                                                                
+ Input data for node 1 : 2                                                                                    
+ Input data for node 2 : 5                                                                                    
+ Input data for node 3 : 8                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ node 1 : 2                                                                                                   
+ node 2 : 5                                                                                                   
+ node 3 : 8                                                                                                   
+ Input data for the first node : 1                                                                            
+                                                                                                              
+ After insertion the new list are :                                                                           
+ node 1 : 1                                                                                                   
+ node 2 : 2                                                                                                   
+ node 3 : 5                                                                                                   
+ node 4 : 8  
+ 
+45. Write a program in C to insert a new node at the end of a doubly linked list.  
+Test Data and Expected Output :
+Input the number of nodes : 3                                                                                
+ Input data for node 1 : 2                                                                                    
+ Input data for node 2 : 5                                                                                    
+ Input data for node 3 : 8                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ node 1 : 2                                                                                                   
+ node 2 : 5                                                                                                   
+ node 3 : 8                                                                                                   
+ Input data for the last node : 9                                                                             
+                                                                                                              
+ After insertion the new list are :                                                                           
+ node 1 : 2                                                                                                   
+ node 2 : 5                                                                                                   
+ node 3 : 8                                                                                                   
+ node 4 : 9 
+ 
+46. Write a program in C to insert a new node at any position in a doubly linked list.  
+Test Data and Expected Output :
+Input the number of nodes (3 or more ): 3                                                                    
+ Input data for node 1 : 2                                                                                    
+ Input data for node 2 : 4                                                                                    
+ Input data for node 3 : 5                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ node 1 : 2                                                                                                   
+ node 2 : 4                                                                                                   
+ node 3 : 5                                                                                                   
+ Input the position ( 2 to 2 ) to insert a new node : 2                                                       
+ Input data for the position 2 : 3                                                                            
+                                                                                                              
+ After insertion the new list are :                                                                           
+ node 1 : 2                                                                                                   
+ node 2 : 3                                                                                                   
+ node 3 : 4                                                                                                   
+ node 4 : 5 
+ 
+47. Write a program in C to insert a new node in the middle of a doubly linked list.  
+Test Data and Expected Output :
+  Doubly Linked List : Insert new node at the middle in a doubly linked list :                                 
+----------------------------------------------------------------------------------                            
+ Input the number of nodes (3 or more ): 3                                                                    
+ Input data for node 1 : 2                                                                                    
+ Input data for node 2 : 4                                                                                    
+ Input data for node 3 : 5                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ node 1 : 2                                                                                                   
+ node 2 : 4                                                                                                   
+ node 3 : 5                                                                                                   
+ Input the position ( 2 to 2 ) to insert a new node : 2                                                       
+ Input data for the position 2 : 3                                                                            
+                                                                                                              
+ After insertion the new list are :                                                                           
+ node 1 : 2                                                                                                   
+ node 2 : 3                                                                                                   
+ node 3 : 4                                                                                                   
+ node 4 : 5
+ 
+48. Write a program in C to delete a node from the beginning of a doubly linked list.  
+Test Data and Expected Output :
+Input the number of nodes (3 or more ): 3                                                                    
+ Input data for node 1 : 1                                                                                    
+ Input data for node 2 : 2                                                                                    
+ Input data for node 3 : 3                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ node 1 : 1                                                                                                   
+ node 2 : 2                                                                                                   
+ node 3 : 3                                                                                                   
+                                                                                                              
+ After deletion the new list are :                                                                            
+ node 1 : 2                                                                                                   
+ node 2 : 3   
+ 
+49. Write a program in C to delete a node from the last node of a doubly linked list.  
+Test Data and Expected Output :
+Input the number of nodes (3 or more ): 3                                                                    
+ Input data for node 1 : 1                                                                                    
+ Input data for node 2 : 2                                                                                    
+ Input data for node 3 : 3                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ node 1 : 1                                                                                                   
+ node 2 : 2                                                                                                   
+ node 3 : 3                                                                                                   
+                                                                                                              
+ After deletion the new list are :                                                                            
+ node 1 : 1                                                                                                   
+ node 2 : 2    
+ 
+50. Write a program in C to delete a node from any position in a doubly linked list.  
+Test Data and Expected Output :
+ Doubly Linked List : Delete node from any position of a doubly linked list :                                 
+----------------------------------------------------------------------------------                            
+ Input the number of nodes (3 or more ): 3                                                                    
+ Input data for node 1 : 1                                                                                    
+ Input data for node 2 : 2                                                                                    
+ Input data for node 3 : 3                                                                                    
+                                                                                                              
+ Data entered in the list are :                                                                               
+ node 1 : 1                                                                                                   
+ node 2 : 2                                                                                                   
+ node 3 : 3                                                                                                   
+ Input the position ( 1 to 3 ) to delete a node : 3                                                           
+                                                                                                              
+ After deletion the new list are :                                                                            
+ node 1 : 1                                                                                                   
+ node 2 : 2  
+
 
