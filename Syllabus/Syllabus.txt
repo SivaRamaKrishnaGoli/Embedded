@@ -1,1 +1,44 @@
+C programming:
+===========
 
+
+C basics:
+  https://www.unf.edu/~wkloster/2220/ppts/cprogramming_tutorial.pdf
+
+Compiling & linking :
+  http://www2.cs.uidaho.edu/~krings/CS270/Notes.S10/270-F10-03.pdf
+
+Memory layout of C program:
+  https://www.youtube.com/watch?v=XPmIDU2u_8U
+  https://www.youtube.com/watch?v=IN95vQ4FiTw
+
+C programs:
+  Arrays
+  Strings
+  Bitwise
+  linked list
+  stacks
+  queues
+
+Linux/OS Internals:
+=============
+
+Operating Systems internals and Design by William  Stallings
+  - Download from : https://github.com/aut-ce/CE303-OS/blob/master/References/2)%20Stallings%2C%20Operating%20Systems%2C%20Internals%20and%20Design%20Principles%2C%209e%2C%202018.pdf
+  - Read from Chapter3 to Chapter10
+
+Linux system programming
+===========
+   -  
+
+
+Linux/OS Device Drivers:
+=======================
+  - 
+
+
+Protocols:
+========
+
+ - learn about I2c, SPI, UART, CAN 
+ - OSI/TCPIP protocol stack
